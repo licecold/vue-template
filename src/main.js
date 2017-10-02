@@ -6,6 +6,6 @@ import App from './App.vue';
 var app = new Vue({
   el: "#app",
   render(createElement) {
-    return createElement(app)
+    return createElement(App)
   }
 })
